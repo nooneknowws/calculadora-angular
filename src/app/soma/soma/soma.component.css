@@ -1,0 +1,21 @@
+
+.texto {
+    text-align: center;
+    color: black;
+}
+.btn{
+    color: white;
+    background-color: black;
+}
+.form-select{
+    width: 100%;
+}
+.result {
+    padding-left: 50%;
+    width: 100%;
+}
+.resulttext {
+    padding-top: 1%;
+    padding-bottom: 1% ;
+    text-align: center;
+}
